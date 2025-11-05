@@ -35,5 +35,3 @@ This upgraded version helps friends split expenses, track balances, and visualiz
    - Final balances (positive = receivable, negative = payable)
 
 ---
-
-## 🧾 Sample Menu Output
